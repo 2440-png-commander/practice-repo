@@ -1,0 +1,1 @@
+fetchとpullの比較
